@@ -1,7 +1,8 @@
 # LearnLog app
 
 A responsive **React + Vite + Tailwind CSS** dashboard to track courses, checkpoints, and progress.
-**Live Demo:** [learnlog-app.vercel.app](https://learnlog-app.vercel.app)
+
+**Live Demo:** <a href="https://learnlog-app.vercel.app" target="_blank">learnlog-app.vercel.app</a>
 
 ## Features
 
